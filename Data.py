@@ -30,7 +30,7 @@ Send /help Visit My Help Menu
     # Home Button
     home_buttons = [
         [InlineKeyboardButton(text="🏛️ Return Home 🏛️", callback_data="home")],
-        [InlineKeyboardButton("☣ Emo Bot Devolopers ☣", url="https://t.me/little_little_hackur")],
+        [InlineKeyboardButton(text= "CrownBot Devolopers ☣", url="https://t.me/little_little_hackur")],
     ]
 
     # Rest Buttons
