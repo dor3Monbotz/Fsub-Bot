@@ -15,7 +15,7 @@ Send /help Visit My Help Menu
 
 🙈 For All Users 👇👇
 
-🔥 Powered By Emo Network ✓
+🔥 Powered By CrownBots ✓
 ☘️ Simple & Friendly BOT ✓
 🪤 Keep Original Appearance ✓
 🎯 Group Supported ✓
@@ -23,25 +23,25 @@ Send /help Visit My Help Menu
 ✅ 24 Hour Active ✓
 🤩 New OS ✓
 
-🚀Powerd By @EmoBotDevolopers
+🚀Powerd By @projectcrown
 
     """
 
     # Home Button
     home_buttons = [
         [InlineKeyboardButton(text="🏛️ Return Home 🏛️", callback_data="home")],
-        [InlineKeyboardButton("☣ Emo Bot Devolopers ☣", url="https://t.me/EmoBotDevolopers")],
+        [InlineKeyboardButton("☣ Emo Bot Devolopers ☣", url="https://t.me/little_little_hackur")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🪄Demo Bot", url="https://t.me/ImRishmika_Bot")],
+        [InlineKeyboardButton("🪄Updates", url="https://t.me/projectcrown")],
         [
             InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
             InlineKeyboardButton("♾️ About ♾️", callback_data="about")
         ],
-        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/ImRishmika")],
-        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/EmoBotSupport")],
+        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/little_little_hackur")],
+        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/crownbotzsupport")],
     ]
 
     # Help Message
@@ -51,7 +51,7 @@ Send /help Visit My Help Menu
 2) Add me to the particular chat as **Admin** where you want to force your users to join. It can be any group or channel, public or private.
 
 3) Use /fsub chat_id/username to make me functional. Use /id if you need chat id.
-Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
+Example : `/fsub @projectcrown` or `/forcesubscribe @projectcrown`
 
 4) [Optional] Use /settings to change settings!
 
@@ -69,7 +69,7 @@ Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
 
 **Note** - You can also use `/forcesubscribe` instead of `/fsub`
 
-🔥 Powerd By [Emo Network](t.me/EmoBotDevolopers)
+🔥 Powerd By [Crown Network](https://t.me/projectcrown)
     """
 
     # About Message
@@ -78,15 +78,13 @@ Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
 
 A Telegram Force Subscribing Bot by @ImRishmika
 
-🪄Powerd By : @EmoBotDevolopers
+🪄Powerd By : @projectcrown
 
 🍁Framework : [Pyrogram](docs.pyrogram.org)
 
 🍁Language : [Python](www.python.org)
 
-🍁Developer : @ImRishmika
+🍁Developer : [𝐁𝐥𝐚𝐜𝐤 𝐇𝐚𝐭](https://t.me/little_little_hackur) 
 
-🖥️ Host Sever : Heroku 
-
-
+🖥️ Host Sever : .......... 
     """
